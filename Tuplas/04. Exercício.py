@@ -1,4 +1,4 @@
-tupla_info = ("Pedrinho", "15", "915.067.890-64")
+tupla_info = ("Pedrinho", "15", "91506789064")
 print(f"Nome, idade e CPF: {tupla_info}\n")
 
 try:
